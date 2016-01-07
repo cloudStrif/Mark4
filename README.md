@@ -1,4 +1,4 @@
-#Projet Dessin Vectoriel : Patrick Chen
+#Projet Dessin Vectoriel : 
 
 Les fichiers sources se trouvent dans le dossier ./Math ,ainsi que leurs fichiers binaires,(.exe et .jar dans le dossier Math/)
 
