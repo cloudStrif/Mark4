@@ -9,6 +9,10 @@ on peut y tracer des fonctions , tracer des droites ,cercles (..)
 Pour plus de details se rapporter au .PDF.(pas super complet mais sufficant)
 
 Le programme si presente sous cette forme :</br>
+<img src ="out.gif">
+
+
+
 <img src ="Math/images/base.png">
 </br>
 
