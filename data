@@ -1,1 +1,1 @@
-{ "OverlayData": { "Equipment": "Centrifugal pump", "Id": "10000027", "Temperature": "65°C", "Workorder": "'4001720" }, "3DModel": "http://smp1.ls.lagaude.ibm.com/CentrifugalPump.fbx", "IoT": "http://iot4swim.mybluemix.net/CentrifugalPumpData" } 
+{ "OverlayData": { "Equipment": "Centrifugal pump", "Id": "10000027", "Temperature": "65°C", "Workorder": "'4001720" }, "3DModel": "https://drive.google.com/uc?id=1T5mjjUjxN1v_jrRZpoaMahE0ncTqurAp&export=download", "IoT": "http://iot4swim.mybluemix.net/CentrifugalPumpData" } 
